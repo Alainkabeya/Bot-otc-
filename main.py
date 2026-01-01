@@ -4,8 +4,8 @@ import random
 from datetime import datetime
 
 # === TELEGRAM ===
-BOT_TOKEN = os.getenv("8218898659:AAHRRAlrQxpCHDG7AydgtnTbLvAVwZ8VtFE")
-CHAT_ID = os.getenv("1175920056")
+BOT_TOKEN = os.getenv = "8218898659:AAHRRAlrQxpCHDG7AydgtnTbLvAVwZ8VtFE"
+CHAT_ID = os.getenv = "1175920056"
 
 # === PARAMÈTRES OTC ===
 PAIR = "AUD/USD OTC"
